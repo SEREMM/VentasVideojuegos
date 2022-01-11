@@ -7,7 +7,7 @@ Proyecto de análisis de datos sobre las ventas (en millones) de videojuegos por
 
 creado en POWER BI.
 
-bases de datos EXCELL.
+bases de datos EXCEL.
 
 --imágenes:
 
